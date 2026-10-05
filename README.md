@@ -15,4 +15,8 @@ LeetCode solutions repository focused on problem-solving patterns, optimized alg
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranavpendhare45-pixel/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/pranavpendhare45-pixel/Leetcode-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
