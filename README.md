@@ -19,4 +19,5 @@ LeetCode solutions repository focused on problem-solving patterns, optimized alg
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranavpendhare45-pixel/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/pranavpendhare45-pixel/Leetcode-Problems/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
